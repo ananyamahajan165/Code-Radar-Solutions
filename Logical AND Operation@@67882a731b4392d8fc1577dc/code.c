@@ -8,7 +8,7 @@ int main() {
     int num1, num2;
     scanf("%d %d" &num1,&num2);
     if (num1>0 && num2>0){
-        print("True\n");
+        printf("True\n");
     } else{
         printf("False\n");
     }
