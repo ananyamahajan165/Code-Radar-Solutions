@@ -12,7 +12,7 @@ int main() {
     } else if(ch>='0'||ch<='9'){
         printf("Digits\n");
     } else{
-        printf("Special Character\n")
+        printf("Special Character\n");
     }
     return 0;
 }
