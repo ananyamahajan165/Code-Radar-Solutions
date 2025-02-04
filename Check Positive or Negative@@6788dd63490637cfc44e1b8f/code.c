@@ -9,7 +9,7 @@ int main() {
     scanf("%d",&a);
     if (a>0){
         printf("Positive\n");
-    } elif if(a<0){
+    } else if(a<0){
         printf("Negative\n");
     } else{
         printf("Zero");
