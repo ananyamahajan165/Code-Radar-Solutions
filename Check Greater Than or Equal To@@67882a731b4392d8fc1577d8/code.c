@@ -10,6 +10,6 @@ int main() {
     if (num1>=num2){
         printf("True\n");
     } else{
-        printf("False\n")
+        printf("False\n");
     }    return 0;
 }
