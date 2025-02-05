@@ -7,10 +7,13 @@ int main() {
     switch (operator){
         case'+':
             printf("%d\n",a+b);
+            break;
         case '-':
             printf("%d\n",a-b);
+            break;
         case'*':
             printf("%d\n",a*b);
+            break;
         case'/':
             if (b!=0){
                 printf("%d\n",a/b);
