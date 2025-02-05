@@ -15,11 +15,11 @@ int main() {
             if (b!=0){
                 printf("%d\n",a/b);
             } else{
-                printf("Error\n");
+                printf("error\n");
             }
             break;
         default:
-            printf("Error\n");
+            printf("error\n");
             break;
 
     }
