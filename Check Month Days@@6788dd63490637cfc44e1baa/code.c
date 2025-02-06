@@ -14,7 +14,7 @@ int main() {
         printf("28\n");
         break;
     default:
-        printf("Invalid month.");
+        printf("Invalid Month.");
     }
 
     return 0;
