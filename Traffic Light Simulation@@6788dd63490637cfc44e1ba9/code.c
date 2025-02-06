@@ -7,7 +7,7 @@ int main() {
         case'R':
         printf("Stop\n");
         break;
-        case 'G'
+        case 'G':
         printf("Go\n");
         break;
         case 'Y':
