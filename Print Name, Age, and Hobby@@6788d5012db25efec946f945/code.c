@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    char name[100], hobby[100];
+    char a[100], b[100];
     int age;
-    scanf("%s", name);
+    scanf("%s", &a);
     scanf("%d", &age);
-    scanf("%s", hobby);
-    printf("Name: %s\n", name);
+    scanf("%s", &b);
+    printf("Name: %s\n", a);
     printf("Age: %d\n",age);
-    printf("Hobby: %s\n" , hobby);
+    printf("Hobby: %s\n" , b);
     return 0;
 
 }
