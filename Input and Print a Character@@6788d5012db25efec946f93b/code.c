@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    char op;
-    scanf("%c" , &op);
-    printf("You entered: %c\n", op);
+    char a;
+    scanf("%c" , &a);
+    printf("You entered: %c\n", a);
 
     return 0;
 }
