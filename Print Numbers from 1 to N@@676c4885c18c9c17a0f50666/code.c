@@ -1,12 +1,8 @@
 #include <stdio.h>
-
-int main() {
-    int N,i;
-    scanf("%d",&N);
-    for(i=1;i<=N;i++)
-    {
-        printf("%d ",i);
-    }
-
+int main()
+{
+    int i;
+    scanf("%d",&i);
+    for(int i=1;i<=n;i++);
     return 0;
 }
